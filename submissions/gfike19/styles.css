@@ -1,0 +1,10 @@
+body {
+  margin: 10px;
+  font-family: sans-serif;
+  background: antiquewhite;
+  padding: 50px;
+}
+
+.image {
+  align: center;
+}
